@@ -11,7 +11,7 @@ function App() {
     const dispatch = useDispatch()
     const data = JSON.parse(localStorage.getItem('items'))
     useEffect(() => {
-        if (data.length > 0) {
+        if (data) {
             dispatch(setDataToCart(data))
         }
     },[])
