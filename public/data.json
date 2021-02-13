@@ -1,0 +1,45 @@
+ [
+    {
+      "id": 0,
+      "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/79c133b1-2163-48aa-a3c4-14c3b1796fea.jpg",
+      "name": "Пепперони",
+      "composition": "Тесто, Соус пикантный на томатной основе, Моцарелла, Колбаски Баварские, Томаты, Шампиньоны, Свежая зелень",
+      "price": 89
+    },
+    {
+      "id": 1,
+      "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/8a813e3b734e457c848a60fc70a100d5_233x233.jpeg",
+      "name": "Mаргарита",
+      "composition": "Тесто,Моцарелла, Колбаски Баварские, Шампиньоны, Свежая зелень",
+      "price": 105
+    },
+    {
+      "id": 2,
+      "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/78a8d351-ec50-49b8-ba8e-6cc18611cc13.jpg",
+      "name": "Цезарь",
+      "composition": "Моцарелла, Колбаски Баварские, Томаты, Шампиньоны, Свежая зелень",
+      "price": 102
+    },
+   {
+     "id": 3,
+     "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/78a8d351-ec50-49b8-ba8e-6cc18611cc13.jpg",
+     "name": "Барбекю",
+     "composition": " Колбаски Баварские, Томаты, Шампиньоны, Свежая зелень",
+     "price": 122
+   },
+   {
+     "id": 4,
+     "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/Pizza/ru-RU/292e46a4-a14d-4e91-8af5-c196e54d3f04.jpg",
+     "name": "Техас",
+     "composition": "Тесто, Соус пикантный на томатной основе, Моцарелла, Колбаски Баварские, Томаты",
+     "price": 87
+   },
+   {
+     "id": 5,
+     "img": "https://dodopizza-a.akamaihd.net/static/Img/Products/32ab88d1819048e285a91d91b9ef4451_233x233.jpeg",
+     "name": "Италийская",
+     "composition": "Тесто, Колбаски Баварские, Томаты, Шампиньоны, Свежая зелень",
+     "price": 133
+   }
+  ]
+

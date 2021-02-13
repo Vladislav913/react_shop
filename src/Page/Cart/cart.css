@@ -1,0 +1,50 @@
+.cart{
+    margin: 50px 0 20px 0;
+}
+.cart__wrap {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid #ddd;
+    padding: 30px;
+}
+input {
+    border: none;
+    outline: none;
+}
+
+input[type=number] {
+    -moz-appearance: textfield
+}
+
+button:focus, button{
+    outline: none;
+    cursor: pointer;
+}
+input::-webkit-inner-spin-button, input::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0
+}
+
+.totalSum{
+    font-size: 24px;
+    line-height: 26px;
+    font-weight: bold;
+    margin-top: 20px;
+
+}
+.totalSum span{
+    font-size: 24px;
+    line-height: 26px;
+    font-weight: bold;
+    margin-top: 20px;
+    color: #f10828;
+}
+@media (max-width: 767px) {
+    .cart__form {
+        width: 100%;
+        margin-top: 25px;
+    }
+.cart__wrap{
+    flex-direction: column;
+}
+}

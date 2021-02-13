@@ -1,0 +1,41 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: sans-serif;
+    background:#79B530;
+    padding: 15px 50px;
+
+}
+.header__cart {
+   position: relative;
+}
+.header__cart svg {
+    width: 30px;
+    height: 30px;
+}
+.header__logo {
+    font-size: 22px;
+    color: #fff;
+    text-decoration: none;
+
+}
+.cart-count {
+    padding: 3.5px 7px;
+    background: antiquewhite;
+    border-radius: 50%;
+    position: absolute;
+    top: 0;
+    right: -11px;
+    font-size: 12px;
+}
+.header__totalPrice{
+    font-size: 14px;
+    margin-left: 15px;
+    color: #fff;
+}
+.header__info{
+    display: flex;
+    align-items: center;
+    min-width: 62px;
+}

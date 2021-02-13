@@ -1,0 +1,55 @@
+.cart__item{
+    display: flex;
+    align-items: center;
+   padding: 20px 0;
+    border-bottom: 1px solid #ddd;
+}
+.cart__img{
+    width: 70px;
+    height: 70px;
+    margin-right: 10px;
+}
+.counter{
+    display: flex;
+    align-items: center;
+
+}
+.counter__minus svg{
+    width: 14px;
+}
+.counter__plus svg{
+    width: 13px;
+}
+.btn{
+    display: flex;
+    align-items: center;
+    background: transparent;
+    border: none;
+    outline: none;
+}
+.counter__value{
+    margin: 0 7px;
+    width: 40px;
+    text-align: center;
+}
+.cart__name{
+    font-size: 16px;
+    margin-right: 7px;
+    min-width: 100px;
+
+}
+.cart__price{
+    margin-left: 15px;
+    font-size: 20px;
+    line-height: 24px;
+    color: #f10828;
+}
+.cart__remove {
+    display: flex;
+    align-items: center;
+    padding-top: 5px;
+    border: none;
+    background: none;
+    margin-left: auto;
+}
+
