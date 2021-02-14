@@ -4,7 +4,7 @@
 Демо: https://react-shop-test.vercel.app/
 ```
 ## Даные о заказе сохраняються в firebase
-![firebase](http://joxi.ru/a2X89VyH4OWyl2)
+![Screenshot_3](https://user-images.githubusercontent.com/52431182/107873698-e7651300-6ebc-11eb-8a2d-fc91a2da6ddf.png)
 ```
 npm install
 ```
