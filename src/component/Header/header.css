@@ -39,3 +39,10 @@
     align-items: center;
     min-width: 62px;
 }
+
+@media (max-width: 767px) {
+    .header {
+        padding: 15px 20px;
+
+    }
+}

@@ -53,3 +53,8 @@
     margin-left: auto;
 }
 
+@media (max-width: 767px) {
+    .cart__item {
+        flex-wrap: wrap;
+    }
+}
